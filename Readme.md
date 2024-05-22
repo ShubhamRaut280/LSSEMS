@@ -37,7 +37,15 @@ LSSEMS is a web-based application that helps users to find a service provider in
 
 7. Run the script http://localhost/lssems 
 
-Credential for admin panel :
+#### Credential for admin panel :
 
-Username: admin
-Password: shubham
+-- Username: admin
+-- Password: shubham
+
+## Contributions
+
+Contributions are welcome! If you have ideas for improvements or new features, feel free to open an issue or submit a pull request.
+
+## License
+
+This project is licensed under the MIT License - see the LICENSE file for details.
