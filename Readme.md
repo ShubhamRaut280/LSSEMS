@@ -20,7 +20,14 @@ LSSEMS is a web-based application that helps users to find a service provider in
 - About Us: The user views the details of the website.
 - Contact Us: Users can contact the website administrator.
 
+## Technologies Used
 
+- HTML
+- CSS
+- JS
+- PHP
+- MySQL 
+  
 ## Steps to use -
 
 1. Clone this repo
@@ -39,8 +46,8 @@ LSSEMS is a web-based application that helps users to find a service provider in
 
 #### Credential for admin panel :
 
--- Username: admin
--- Password: shubham
+- Username: admin
+- Password: shubham
 
 ## Contributions
 
